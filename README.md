@@ -4,4 +4,4 @@ The Data used in this project was extracted via the Twitch API. This project was
 
 There are 3 missing files for the analysis (ninjafollowers, ninjafollower2, and sykkuno followers) that were unable to be uploaded due to extreme file sizes. These can be pulled using the data extraction notebook for yourself.
 
-There is a shortened 30 minute presentation discussing our findings and analysis. 
+There is a shortened 30 minute presentation discussing our findings and analysis that can be viewed via YouTube. Link: https://youtu.be/Y6vBDd312U8
